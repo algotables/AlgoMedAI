@@ -34,10 +34,11 @@ You can view a real transaction that was executed as part of this project on the
 ## Installation
 
 1. Clone the repository:
+   ```bash
    git clone https://github.com/algotables/AlgoMedAI.git
-2. Navigate to the project directory:
+3. Navigate to the project directory:
    cd ALGOMEDAI
-3. Clone the repository:
+4. Clone the repository:
    pip install -r requirements.txt
 
 ## How to Run

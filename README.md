@@ -37,17 +37,21 @@ You can view a real transaction that was executed as part of this project on the
    ```bash
    git clone https://github.com/algotables/AlgoMedAI.git
 3. Navigate to the project directory:
+   ```bash
    cd ALGOMEDAI
-4. Clone the repository:
+5. Clone the repository:
+   ```bash
    pip install -r requirements.txt
 
 ## How to Run
 1. Replace the mnemonic and address placeholders in main.py with your own Algorand TestNet account details:
+   ```bash
    mnemonic_phrase = "your_mnemonic_here"
    address = "your_address_here"
-2. Run the script:
+3. Run the script:
+   ```bash
    python3 ai_blockchain_healthcare/main.py
-3. Follow the prompts to input patient data and send the validated data to the Algorand blockchain.
+4. Follow the prompts to input patient data and send the validated data to the Algorand blockchain.
 
 ## Screenshots
 <img src="https://github.com/user-attachments/assets/3f0614fd-bdfe-452f-a0e1-1d5222e7bc43" alt="Transaction Example in CLI"/>

@@ -1,6 +1,6 @@
 # AlgoMedAI
 
-**AlgoMedAI** is a Python-based proof-of-concept (PoC) project that integrates AI for healthcare data validation with the Algorand blockchain. It demonstrates how validated healthcare data can be securely stored on the blockchain after being processed by a machine learning model.
+**AlgoMedAI** is a Python-based proof-of-concept combining AI for healthcare data validation with the Algorand blockchain for secure, immutable storage. It demonstrates how AI can improve data accuracy and blockchain can enhance privacy and security, offering a glimpse into the future of healthcare data management.
 
 ## Overview
 

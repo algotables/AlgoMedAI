@@ -54,7 +54,7 @@ You can view a real transaction that was executed as part of this project on the
    address = "your_address_here"
 2. Run the script:
    ```bash
-   python3 ai_blockchain_healthcare/main.py
+   python3 main.py
 3. Follow the prompts to input patient data and send the validated data to the Algorand blockchain.
 
 ## Screenshots

@@ -48,6 +48,7 @@ You can view a real transaction that was executed as part of this project on the
    python3 ai_blockchain_healthcare/main.py
 3. Follow the prompts to input patient data and send the validated data to the Algorand blockchain.
 
-Screenshots
-<img src="blob:chrome-untrusted://media-app/03e963c3-aab0-4ced-b6ac-6b9f1c33b510" alt="Screenshot 2024-09-07 4.51.57 PM.png"/>![image](https://github.com/user-attachments/assets/3f0614fd-bdfe-452f-a0e1-1d5222e7bc43)
-<img src="blob:chrome-untrusted://media-app/3d9ccffa-5156-4274-acc4-183d72b1efd4" alt="Screenshot 2024-09-07 4.39.32 PM.png"/>![image](https://github.com/user-attachments/assets/1b752c20-6560-41a1-9925-5900de0779ac)
+## Screenshots
+<img src="https://github.com/user-attachments/assets/3f0614fd-bdfe-452f-a0e1-1d5222e7bc43" alt="Transaction Example in CLI"/>
+
+<img src="https://github.com/user-attachments/assets/1b752c20-6560-41a1-9925-5900de0779ac" alt="Pera Explorer Showing of Transaction"/>

@@ -1,5 +1,5 @@
 from algosdk.v2client import algod
-from algosdk.future import transaction as future_transaction
+from algosdk.transaction import PaymentTxn
 
 # Use Nodely TestNet endpoint (no token required)
 ALGOD_ADDRESS = "https://testnet-api.algonode.cloud"
@@ -13,12 +13,12 @@ def send_healthcare_data_to_blockchain(sender_private_key, sender_address, data)
     params = algod_client.suggested_params()
 
     # Create a transaction with the required parameters
-    txn = future_transaction.PaymentTxn(
-        sender=sender_address,  # Sender's address
-        sp=params,              # Suggested params from the network (includes gh)
-        receiver=sender_address, # Send to self for PoC
-        amt=1000,               # Sending 1000 microAlgos (0.001 ALGO)
-        note=data.encode()       # Encode healthcare data as a note
+    txn = PaymentTxn(
+        sender=sender_address,
+        sp=params,
+        receiver=sender_address,
+        amt=1000,
+        note=data.encode()
     )
     
     # Sign the transaction

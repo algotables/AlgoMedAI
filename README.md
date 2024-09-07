@@ -30,6 +30,7 @@ You can view a real transaction that was executed as part of this project on the
 - Python 3.x
 - Algorand SDK (`py-algorand-sdk`)
 - Scikit-learn (`scikit-learn`)
+- Numpy (`numpy`)
 
 ## Installation
 

@@ -55,5 +55,6 @@ You can view a real transaction that was executed as part of this project on the
 
 ## Screenshots
 <img src="https://github.com/user-attachments/assets/3f0614fd-bdfe-452f-a0e1-1d5222e7bc43" alt="Transaction Example in CLI"/>
-
+<br>
+<br>
 <img src="https://github.com/user-attachments/assets/1b752c20-6560-41a1-9925-5900de0779ac" alt="Pera Explorer Showing of Transaction"/>

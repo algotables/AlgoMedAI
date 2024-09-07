@@ -38,7 +38,7 @@ You can view a real transaction that was executed as part of this project on the
    git clone https://github.com/algotables/AlgoMedAI.git
 3. Navigate to the project directory:
    ```bash
-   cd ALGOMEDAI
+   cd ai_blockchain_healthcare
 5. Clone the repository:
    ```bash
    pip install -r requirements.txt

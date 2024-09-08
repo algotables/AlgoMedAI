@@ -4,7 +4,7 @@
 
 ## Acknowledgments
 
-This project utilizes the [Algonode](https://algonode.io/) API to interact with the Algorand blockchain for reliable access to the network.
+This project utilizes the [Nodely](https://nodely.io/) API to interact with the Algorand blockchain, providing reliable access to the network.
 
 ## Overview
 

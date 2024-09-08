@@ -2,6 +2,10 @@
 
 **AlgoMedAI** is a Python-based proof-of-concept combining AI for healthcare data validation with the [Algorand](https://www.algorand.com/) blockchain for secure, immutable storage. It demonstrates how AI can improve data accuracy and blockchain can enhance privacy and security, offering a glimpse into the future of healthcare data management.
 
+## Acknowledgments
+
+This project utilizes the [Algonode](https://algonode.io/) API to interact with the Algorand blockchain for reliable access to the network.
+
 ## Overview
 
 This project validates healthcare data (age, severity of symptoms, and presence of pre-existing conditions) using a logistic regression model. Once the data is validated, it is sent to the Algorand TestNet where the transaction stores the data on-chain.
